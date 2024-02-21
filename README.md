@@ -47,7 +47,7 @@ This function retrieves a list of product links from the specified Amazon listin
 - `data.xlsx`: Contains the scraped data in Excel format.
 - `data.json`: Contains the scraped data in JSON format.
 
-## Note
+## Note:
 
 The script includes optional code to filter out `DeprecationWarning` related to `pyarrow`. If not needed, feel free to remove or modify this part based on your requirements.
 
