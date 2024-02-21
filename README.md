@@ -10,6 +10,11 @@ This Python script is designed to scrape product information, including titles, 
 [`Requests`](https://requests.readthedocs.io/en/latest/)
 
 ## Prerequisites
+Follow the `setup.bash` file for creating an environment and downloading required modules.
+
+Unix/mac bases systems
+
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 Ensure you have the required Python libraries installed:
 
